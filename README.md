@@ -11,7 +11,7 @@ I'm a Full Stack Developer with a passion for creating innovative web applicatio
 - 👯 I’m looking to collaborate on open-source projects and community-driven tech initiatives
 - 💬 Ask me about web development, app development, and backend optimization
 - 📫 How to reach me: cesarjoeysantillan08@gmail.com
-- ⚡ Fun fact: I love coffe
+- ⚡ Fun fact: I love coffee
 - 🛩️ Arace UAV Pilot
 
 ## 🛠️ Technologies & Tools
